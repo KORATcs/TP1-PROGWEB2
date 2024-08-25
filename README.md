@@ -1,11 +1,10 @@
 # TP1-PROGWEB2
 
-# Nombre del Proyecto
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/KORATcs/TP-PROGWEB2.svg)](https://github.com/KORATcs/TP-PROGWEB2/issues)
 [![Website](http://127.0.0.1:8000/mensajes/recibidos)](https://KORATcs.github.io/TP1-PROGWEB2)
 
-![Header Image](documentos/TP1-PWII.png)
+![Header Image](C:\Users\KORATcs\Documents\TP1-PWII.png)
 
 ## Descripción
 Se desarrolla una aplicación web utilizando el framework Django, implementando el
@@ -18,15 +17,5 @@ desarrollo, como el uso de entornos virtuales y repositorios de control de versi
 --Desarrollo de Software--
 --Porgramacion Web II--
 
->>Profesor: Julio Casco
->>Estudiante: Camila Simon
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu_usuario/tu_proyecto.git
-
-# Entrar al directorio
-cd tu_proyecto
-
-# Instalar dependencias
-npm install
+Profesor: Julio Casco
+Estudiante: Camila Simon
