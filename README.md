@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/KORATcs/TP-PROGWEB2.svg)](https://github.com/KORATcs/TP-PROGWEB2/issues)
 
-![](\\wsl.localhost\Ubuntu\home\TP1-PWII\EntornoVirtual\TableroMensajes\imagenPortada)
+![](home\TP1-PWII\EntornoVirtual\TableroMensajes\imagenPortada\TP1-PWII.png)
 
 ## Descripción
 Se desarrolla una aplicación web utilizando el framework Django, implementando el
