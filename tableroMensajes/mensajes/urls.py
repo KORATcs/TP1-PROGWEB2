@@ -1,9 +1,9 @@
 from django.urls import path 
-from .views import
+from .views import mensajes
 
 app_name = 'mensajes'
 urlpatterns = [
     path(
-        'recibidos/', ,name = 'mensaje'
+        'recibidos/', mensajes, name = 'mensaje'
     )
 ]
