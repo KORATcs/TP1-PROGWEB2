@@ -1,20 +1,12 @@
-# TP1-PROGWEB2
+<h1>TP1 PROG. WEB II</h1>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/KORATcs/TP-PROGWEB2.svg)](https://github.com/KORATcs/TP-PROGWEB2/issues)
+<img src="https://github.com/KORATcs/TP1-PROGWEB2/blob/fc0840e653d579cae574a9159854bbc3f2534e06/portada.png" alt="logo">
 
-![](home\TP1-PWII\EntornoVirtual\TableroMensajes\imagenPortada\TP1-PWII.png)
-
-## Descripción
-Se desarrolla una aplicación web utilizando el framework Django, implementando el
-patrón de diseño MVT (Modelo-Vista-Template), para gestionar un sistema de mensajes
-recibidos, guardando los datos en una base de datos y desplegando los mensajes a través
-de una interfaz de usuario. El objetivo es aplicar los conocimientos adquiridos en la creación
-de un proyecto Django y su correspondiente aplicación, utilizando buenas prácticas de
-desarrollo, como el uso de entornos virtuales y repositorios de control de versiones.
-
---Desarrollo de Software--  
---Porgramacion Web II--  
-
-Profesor: Julio Casco  
-Estudiante: Camila Simon  
+<h4>PROGRAMAS</h4>
+<li>Python</li>
+<li>DJango</li>
+<li>Entorno Virtual</li>
+<li>HTML</li>
+<hr>
+<h4>INTREGRANTE</h4>
+<li>Simon Camila</li>
